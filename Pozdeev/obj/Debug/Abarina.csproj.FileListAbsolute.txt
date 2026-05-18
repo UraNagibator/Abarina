@@ -1,0 +1,8 @@
+D:\Мэо\Pozdeev\bin\Debug\Pozdeev.exe.config
+D:\Мэо\Pozdeev\bin\Debug\Pozdeev.exe
+D:\Мэо\Pozdeev\bin\Debug\Pozdeev.pdb
+D:\Мэо\Pozdeev\obj\Debug\Abarina.csproj.AssemblyReference.cache
+D:\Мэо\Pozdeev\obj\Debug\Pozdeev.exe.config
+D:\Мэо\Pozdeev\obj\Debug\Abarina.csproj.CoreCompileInputs.cache
+D:\Мэо\Pozdeev\obj\Debug\Pozdeev.exe
+D:\Мэо\Pozdeev\obj\Debug\Pozdeev.pdb
